@@ -10,9 +10,9 @@ Gestalt is a platforming game about a moth trying to restore it wings.
 
 ## Del de Luchador
 
-<img src="mazechaser.png" alt="Maze Chaser" width="333"/>
+<img src="Capture.png" alt="Maze Chaser" width="333"/>
 
-* [Repository]()
+* [Repository](https://github.com/DevinP509/DiaDelLuchador)
 
 * [Web Player](https://bashmckill.itch.io/del-de-lucha)
 
