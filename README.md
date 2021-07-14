@@ -2,7 +2,7 @@
 
 ## Fade
 
-<img src="fade.png" alt="Fade" width="333"/>
+<img src="tempsnip.png" alt="Fade" width="333"/>
 
 Gestalt is a platforming game about a moth trying to restore it wings.
 
