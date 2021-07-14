@@ -4,13 +4,9 @@
 
 <img src="fade.png" alt="Fade" width="333"/>
 
-Fade was an entry to the 2021 Global Game Jam. "Lost and Found" was the theme.
+Gestalt is a platforming game about a moth trying to restore it wings.
 
-* [Repository](https://github.com/vanPhelan/Fade)
-
-* [Submission Page](https://globalgamejam.org/2021/games/fade-9)
-
-* [Latest Release](https://github.com/vanPhelan/Lost-And-Found/releases)
+* [Latest Release](https://team-forest.itch.io/gestalt)
 
 ## Maze Chaser
 
